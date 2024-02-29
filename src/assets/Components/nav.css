@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Work+Sans&display=swap');
+nav{
+	font-family:'Work Sans';
+	font-weight: 600;
+	background-color: #00BFFF !important;
+}
+
+.hj{
+	font-family:'Work Sans';
+	font-weight: bolder;
+}
+
+
+
+
+.sy {
+    opacity: 1;
+    animation: fade 1s infinite;
+	font-weight: 500;
+	color: #D71313 !important;
+	
+}
+@keyframes fade {
+	0%,100% { opacity: 0 }
+	50% { opacity: 1 }
+  }
+  span {
+	content: "\00B7";
+	font-size: medium;
+  }
